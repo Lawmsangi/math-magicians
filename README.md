@@ -89,7 +89,8 @@ npx stylelint "*/.{css,scss}"
 
 
 ## 🔭 Future Features <a name="future-features">
-- **[More UI/UX]**
+- **[More Content]**
+- **[Calculation]**
 
 </a>
 
