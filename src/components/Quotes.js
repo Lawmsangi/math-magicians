@@ -28,7 +28,7 @@ export default function Quotes() {
 
   if (hasError) return <div>Something is wrong with your API!</div>;
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <div>Loading...wait for a few seconds😉</div>;
 
   return (
     <div className="quotes">
