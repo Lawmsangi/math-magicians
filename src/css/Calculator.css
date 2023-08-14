@@ -1,0 +1,10 @@
+.calculator {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 40px;
+}
