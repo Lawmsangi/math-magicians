@@ -20,7 +20,6 @@
     - [Usage](#usage)
     - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -83,16 +82,6 @@ npx stylelint "*/.{css,scss}"
 
 - GitHub: [@githubhandle](https://github.com/Lawmsangi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lawmsangi-varte-baa429244/)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🔭 Future Features <a name="future-features">
-- **[More Content]**
-- **[Calculation]**
-
-</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
