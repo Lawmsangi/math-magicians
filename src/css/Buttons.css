@@ -1,16 +1,11 @@
-.container {
-  display: flex;
-  flex-direction: column;
-  width: 50%;
-}
-
 .buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  width: 50%;
   gap: 2px;
   padding: 50px;
-  background-color: #e0e0e0;
   color: #010100;
+  margin-top: 0;
 }
 
 .result {

@@ -1,0 +1,14 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin: 10px 30px;
+}
+
+.home h2 {
+  margin-top: 20px;
+}
+
+.home p {
+  font-size: 22px;
+}
