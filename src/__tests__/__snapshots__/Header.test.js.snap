@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="header"
+  >
+    <h1>
+      Math Magicians
+    </h1>
+    <nav>
+      <a
+        class="links"
+        href="/"
+      >
+        Home
+      </a>
+      <a
+        class="links"
+        href="/calculator"
+      >
+        Calculator
+      </a>
+      <a
+        class="links"
+        href="/quote"
+      >
+        Quote
+      </a>
+    </nav>
+  </div>
+</DocumentFragment>
+`;
