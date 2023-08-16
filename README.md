@@ -35,21 +35,21 @@ Math Magicians
 
 ### Tech Stack <a name="tech-stack"></a>
 1. Linters
-2. HTML5
-3. JS
-4. ReactJS
+2. CSS
+3. ReactJS
 
 
 ### Key Features <a name="key-features"></a>
-- Linters error free
+- Perform Calculation
 - SPA
+- Quotes Section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link](Coming soon)
+- [Live Demo Link](math-magicians-h4so.onrender.com/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -83,6 +83,11 @@ npx stylelint "*/.{css,scss}"
 - GitHub: [@githubhandle](https://github.com/Lawmsangi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lawmsangi-varte-baa429244/)
 
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/Bupilipili)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/erick-bupilipili-08ba31228/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -106,7 +111,7 @@ If you like this project you can contact me via my contact address and rate it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank the microverse team.
+We would like to thank the microverse team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
